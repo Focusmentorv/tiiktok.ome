@@ -4,7 +4,7 @@ int main() {
     float num1, num2, result, ty;
     char op;
 
-    printf("Enter first number: ");
+    printf("Enter firsftt number: ");
     scanf("%f", &num1);
     printf("Enter second number: ");
     scanf("%f", &num2);
